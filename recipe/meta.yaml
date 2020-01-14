@@ -1,4 +1,4 @@
-{% set version = '2.3' %}
+{% set version = "2.4" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,12 +10,12 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/fma_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/fma/fma_{{ version }}.tar.gz
-  sha256: f516eff79e14d4ffefcdc2db06d97ae57f998e37e871264457078f671384fafc
+  sha256: 69a94c3bd464176a80232d49fcd04d478d4dd59f9bf128d6a9f46e49612d27f4
 
 build:
   noarch: generic
   merge_build_host: True  # [win]
-  number: 1001
+  number: 0
   noarch: generic
   rpaths:
     - lib/R/lib/
