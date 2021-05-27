@@ -37,7 +37,7 @@ test:
 
 about:
   home: https://pkg.robjhyndman.com/fma/, https://github.com/robjhyndman/fma
-  license: GPL-3
+  license: GPL-3.0-only
   summary: 'All data sets from "Forecasting: methods and applications" by Makridakis, Wheelwright
     & Hyndman (Wiley, 3rd ed., 1998) <https://robjhyndman.com/forecasting/>.'
   license_family: GPL3
