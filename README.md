@@ -3,7 +3,7 @@ About r-fma
 
 Home: https://pkg.robjhyndman.com/fma/, https://github.com/robjhyndman/fma
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fma-feedstock/blob/master/LICENSE.txt)
 
