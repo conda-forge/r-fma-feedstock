@@ -1,11 +1,11 @@
-About r-fma
-===========
+About r-fma-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fma-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pkg.robjhyndman.com/fma/, https://github.com/robjhyndman/fma
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-fma-feedstock/blob/main/LICENSE.txt)
 
 Summary: All data sets from "Forecasting: methods and applications" by Makridakis, Wheelwright & Hyndman (Wiley, 3rd ed., 1998) <https://robjhyndman.com/forecasting/>.
 
